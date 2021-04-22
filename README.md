@@ -1,2 +1,2 @@
 # terraform-using-helm-providers
-Terraforming Kubernetes along with Charts
+Terraforming AKS along with Charts
